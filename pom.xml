@@ -48,7 +48,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <classifier>-deploy</classifier>
-                    <outputDirectory>${basedir}/target/azure_deploy/webapps/</outputDirectory>
+                    <outputDirectory>${basedir}/target/azure_deploy/</outputDirectory>
                 </configuration>
             </plugin>
 
